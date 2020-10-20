@@ -7,3 +7,6 @@ If you enter one it will shows the timetable of our daily activites which we hav
 This is the description about my chat bot
 
 Youtube link:https://youtu.be/imAKHZJ5Cp0
+
+conclusion:
+Finally this chat bot remainds you to do our work properly time to time
